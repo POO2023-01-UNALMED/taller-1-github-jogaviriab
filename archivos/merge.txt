@@ -6,3 +6,6 @@ permite realizarle commit a carpetas vacias, y estas deben tener minimo un archi
 Jorge Humberto Gaviria Botero
 19
 Aprender mucho y ganarla
+
+Esto debido a que al estar trabajando con dos archivos diferentes los cambios realizados en ambos van a generear conflictos
+y se puede perder informacion
