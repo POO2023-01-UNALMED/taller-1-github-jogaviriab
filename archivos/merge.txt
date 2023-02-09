@@ -1,0 +1,3 @@
+En el punto 8 no nos permite realizarle un commit a la carpeta achivos debido a que esta se encuentra vacia,
+pero al crear el archivo respuesta dentro de esta carpeta si nos permite realizar el commit. Esto es debido a que github no
+permite realizarle commit a carpetas vacias, y estas deben tener minimo un archivo, en este caso respuesta.txt
